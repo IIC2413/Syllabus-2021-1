@@ -123,6 +123,7 @@ Fecha      | Evaluación
 07/05      | Entrega Control Bonus
 28/06      | Enunciado Control 3
 30/06      | Entrega Control 3
+14/07      | Examen
 
 ### Proyecto
 
