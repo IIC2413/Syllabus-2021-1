@@ -3,7 +3,7 @@
 ## Tabla de contenidos
 
 - [Equipo](#equipo)
-  - [Profesor](#profesores)
+  - [Profesores](#profesores)
   - [Ayudantes](#ayudantes)
 - [Contenidos](#contenidos)
 - [Calendario](#calendario-evaluaciones)
