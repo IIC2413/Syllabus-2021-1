@@ -1,0 +1,1 @@
+Aquí se subirá el link a la cápsula en la que explicamos como configurar su repostiorio en el servidor.
