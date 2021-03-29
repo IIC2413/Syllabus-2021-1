@@ -130,7 +130,7 @@ Fecha      | Evaluación
 Fecha      | Evaluación
 -----------|------------
 31/03      | Enunciado Entrega 1
-14/04      | Entrega 1
+16/04      | Entrega 1
 21/04      | Enunciado Entrega 2
 26/05      | Entrega 2
 02/06      | Enunciado Entrega 3
