@@ -9,3 +9,4 @@ En esta página pueden encontrar algunos videos de la materia particular. Por ej
 | Álgebra relacional III: Join         | https://drive.google.com/file/d/16iRzLBkNtZJQ2ktnhOqVPFt-a1xFd5b_/view?usp=sharing |
 | Álgebra relacional IV: Diferencia         | https://drive.google.com/file/d/1eojOSfuCRrtv_p-KwUAUQaUHWswt6oTH/view?usp=sharing |
 | SQL 1: SELECT-FROM-WHERE         | https://www.youtube.com/watch?v=K8bgmWoty0E&t=644s |
+| SQL 2: Agregación         | https://www.youtube.com/watch?v=n-Ky1go7Alk&t=7s |
