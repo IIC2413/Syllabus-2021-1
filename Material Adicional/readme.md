@@ -8,3 +8,4 @@ En esta página pueden encontrar algunos videos de la materia particular. Por ej
 | Álgebra relacional II: SPUR         | https://drive.google.com/file/d/1lWcT9x6MBz1LXm7cxDCbu1d4PEHAZDs9/view?usp=sharing |
 | Álgebra relacional III: Join         | https://drive.google.com/file/d/16iRzLBkNtZJQ2ktnhOqVPFt-a1xFd5b_/view?usp=sharing |
 | Álgebra relacional IV: Diferencia         | https://drive.google.com/file/d/1eojOSfuCRrtv_p-KwUAUQaUHWswt6oTH/view?usp=sharing |
+| SQL 1: SELECT-FROM-WHERE         | https://www.youtube.com/watch?v=K8bgmWoty0E&t=644s |
