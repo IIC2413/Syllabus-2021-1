@@ -28,3 +28,10 @@ Los puntajes asignados son los siguientes:
 - Recuerda que el esquema que tengas que trabajar depende de la paridad de el número de tu grupo. 
 - Recuerda usar los issues para ir resolviendo dudas.
 - Recomendamos ver los videos de la ayudantía y la wiki del curso
+
+### Formato de Entrega esperado
+
+Recuerden que, al final de su entrega, al entrar al servidor y utilizar el comando ```ls``` deberían ver algo así:
+
+<img width="439" alt="Captura de Pantalla 2021-04-08 a la(s) 11 24 09" src="https://user-images.githubusercontent.com/37157550/114055497-d43c4700-985e-11eb-93f4-db52bb60e3ae.png">
+
