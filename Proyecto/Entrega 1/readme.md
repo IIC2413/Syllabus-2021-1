@@ -14,9 +14,10 @@ Los puntajes asignados son los siguientes:
   - 0.5 pts por cada consulta correcta entregada.
   - 0.5 pts por cada consulta funcional entregada.
 
-- **(1 pto) Tablas en el Servidor**
+- **(1 pto) Tablas en el Servidor**(esto es solo para las tablas realcionadas con las primeras tres consultas)
   - 0.5 pts por crear las tablas en el servidor y poner datos en ellas
   - 0.5 pts por coherencia entre los datos de las tablas y el esquema presentado
+
 
 ## Descuentos
 
