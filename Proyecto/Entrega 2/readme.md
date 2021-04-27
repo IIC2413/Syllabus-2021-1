@@ -6,6 +6,7 @@ Fecha           | Hora      | Archivo         | Modificación
 25-04-2021       | 21:50    | ```productos.csv```      | Se asigna el mismo nombre a todos los productos electrónicos que compartan id
 26-04-2021       | 11:45    | ```compras.csv```        | Se añade la columna tienda_id para facilitar el preprocesamiento de datos
 26-04-2021       | 11:45    | ```despachos.csv```      | Se modifica la columna de direcciones de origen debido a un problema con los ids
+27-04-2021       | 19:20    | ```personal.csv```       | Se modifica un error en la primera fila donde estaban rut y nombres cambiados
 
 
 ### Formato de Entrega esperado
