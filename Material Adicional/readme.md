@@ -11,3 +11,4 @@ En esta página pueden encontrar algunos videos de la materia particular. Por ej
 | SQL 1: SELECT-FROM-WHERE         | https://www.youtube.com/watch?v=K8bgmWoty0E&t=644s |
 | SQL 2: Agregación         | https://www.youtube.com/watch?v=n-Ky1go7Alk&t=7s |
 | Almacenamiento y Índices         | https://www.youtube.com/watch?v=9zeiEzqG8ps&t=2461s |
+| Guía de Índices         | https://drive.google.com/file/d/1F19be28JRWI4sbVseJUCq9vM9OTqqZyZ/view?usp=sharing |
