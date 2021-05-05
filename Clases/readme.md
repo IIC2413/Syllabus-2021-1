@@ -10,3 +10,4 @@
 | Modelo E/R                     | 14/04 | https://drive.google.com/file/d/1NHUVfo-39azIzx1OwckiXq6Su-QklZg9/view?usp=sharing |
 | Descomposición                 | 21/04 | https://drive.google.com/file/d/1yfcomi_WTrVwbI7e1ewYzS5fkHV4F-ms/view?usp=sharing |
 | Índices                        | 28/04 | https://drive.google.com/file/d/1h4mJLypqL5pZFancX5hA3PLoupMYjGlq/view?usp=sharing |
+| Algoritmos                     | 05/05 | https://drive.google.com/file/d/1QjSGZ-xL7nbb59EJOPNjEAZEi7CzqlHT/view?usp=sharing |
