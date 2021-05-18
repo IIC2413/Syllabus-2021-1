@@ -120,7 +120,7 @@ Fecha      | Evaluación
 28/04      | Enunciado Control 2
 30/04      | Entrega Control 2
 **19/05**      | Enunciado Control Bonus
-**21/05**      | Entrega Control Bonus
+**24/05**      | Entrega Control Bonus
 28/06      | Enunciado Control 3
 30/06      | Entrega Control 3
 14/07      | Examen
