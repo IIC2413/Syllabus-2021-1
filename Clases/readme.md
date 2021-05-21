@@ -11,3 +11,4 @@
 | Descomposición                 | 21/04 | https://drive.google.com/file/d/1yfcomi_WTrVwbI7e1ewYzS5fkHV4F-ms/view?usp=sharing |
 | Índices                        | 28/04 | https://drive.google.com/file/d/1h4mJLypqL5pZFancX5hA3PLoupMYjGlq/view?usp=sharing |
 | Algoritmos                     | 05/05 | https://drive.google.com/file/d/1QjSGZ-xL7nbb59EJOPNjEAZEi7CzqlHT/view?usp=sharing |
+| SQl Parte III                  | 19/05 | https://drive.google.com/file/d/15D5ViV80zoOpaxP_fQEALIpPcNR14E0m/view?usp=sharing |
