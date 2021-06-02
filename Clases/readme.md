@@ -13,4 +13,5 @@
 | Algoritmos                     | 05/05 | https://drive.google.com/file/d/1QjSGZ-xL7nbb59EJOPNjEAZEi7CzqlHT/view?usp=sharing |
 | SQl Parte III                  | 19/05 | https://drive.google.com/file/d/15D5ViV80zoOpaxP_fQEALIpPcNR14E0m/view?usp=sharing |
 | SQl Parte IV                   | 26/05 | https://drive.google.com/file/d/107cYsEixx9_5dW358d74VIwjMEwcAb3e/view?usp=sharing |
+| Transacciones y ACID           | 02/06 | https://drive.google.com/file/d/1ier71Qa5eQyz1x-gupweEWiPURonwXfk/view?usp=sharing |
 
