@@ -14,3 +14,4 @@ En esta página pueden encontrar algunos videos de la materia particular. Por ej
 | Guía de Índices         | https://drive.google.com/file/d/1F19be28JRWI4sbVseJUCq9vM9OTqqZyZ/view?usp=sharing |
 | ¿Qué es WikiData?       | https://drive.google.com/file/d/18g5l2hCR0c3eoJ2w1Kax6e5mfYw9n6Bw/view?usp=sharing |
 | Text Search             | https://www.youtube.com/watch?v=vR97-4UG7x0 |
+| Más guías de MongoDB    | https://drive.google.com/file/d/1pPJeM4ZMJobO8TB9NUjm3b4K8jH7kIjP/view?usp=sharing |
