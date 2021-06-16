@@ -38,13 +38,11 @@ show collections
   --> db.usuarios.find({"follows":3},{"name":1, "age":0}).pretty() ---> error
 
 2. Text Search:
-	- explain what wikidata is
 	- search by regex
 	- creating a text index
 	- basic text search
-	- mention stemming, stop words
-		- provide a link for further reading
-	- a few words on text index
+	- stemming, stop words
+
 
 	--> use educativo_wiki
 
