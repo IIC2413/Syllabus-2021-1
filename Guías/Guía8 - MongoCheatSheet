@@ -1,0 +1,118 @@
+1. The basics of searching and navigating.
+	(Local installation on my machine)
+	- find
+	- pretty
+	- selectors (equal, less, more)
+	- projection (the second bracket)
+
+If you have mongoDB installed on your machine:
+--> mongo -u alumnoXX  gray.ing.puc.cl --authenticationDatabase perm
+--> password: XX
+
+show dbs
+
+use educativo
+
+show collections
+
+  -->  db.usuarios.find()
+
+  -->  db.usuarios.find().pretty()
+
+  -->  db.usuarios.find({"name":"Adrian"}).pretty()
+
+  -->  db.usuarios.find({"age":{$gte:23}}).pretty()
+
+  -->  db.usuarios.find({"name":"Adrian", "age":{$gte:23}}).pretty()
+
+  --> db.usuarios.find({"follows":3}).pretty()
+
+  --> db.usuarios.find({"follows":{$nin: [2, 3] }}).pretty()
+
+  --> db.usuarios.find({"follows":3},{"name":1}).pretty()
+
+  --> db.usuarios.find({"follows":3},{"name":1, "age":1}).pretty()
+
+  --> db.usuarios.find({"follows":3},{"age":0}).pretty()
+
+  --> db.usuarios.find({"follows":3},{"name":1, "age":0}).pretty() ---> error
+
+2. Text Search:
+	- explain what wikidata is
+	- search by regex
+	- creating a text index
+	- basic text search
+	- mention stemming, stop words
+		- provide a link for further reading
+	- a few words on text index
+
+	--> use educativo_wiki
+
+	otro dataset, con info de wikipedia (llamado WikiData; ver mas en el link...)
+	--> db.wiki_data.find().pretty()
+	--> db.wiki_data.find({},{"descriptions.en":1}).pretty()
+	--> db.wiki_data.find({},{"descriptions.en.value":1}).pretty()
+
+	si los campos contienen texto, como busco a una palabra?
+	--> db.wiki_data.find({"descriptions.en.value":{$regex:"Chile"}},{"descriptions.en.value":1}).pretty()
+
+	creating a text index
+	--> db.wiki_data.createIndex({"descriptions.en.value":"text"})
+
+	basic text search:
+	--> db.wiki_data.find({$text: {$search: "Chile"}},{"descriptions.en.value":1})
+
+	if I want one or more words on my list (OR of search words):
+	--> db.wiki_data.find({$text: {$search: "Chile town"}},{"descriptions.en.value":1})
+
+	if I want both words on my list (AND of search words):
+	--> db.wiki_data.find({$text: {$search: "\"Chile\" \"town\""}},{"descriptions.en.value":1})
+		## Notice things like "Chilean town"...this is called stemming (la raiz comun se usa)...Chile, Chilean, Chiles,...
+
+	# Si necesito una frase entera literal:
+	--> db.wiki_data.find({$text: {$search: "\"Chilean town\""}},{"descriptions.en.value":1})
+	--> db.wiki_data.find({$text: {$search: "\"Chile town\""}},{"descriptions.en.value":1})
+ 		## the second one returns no results; it is literal
+
+ 	# Si quiero unas palabras y otras no:
+ 	--> db.wiki_data.find({$text: {$search: "Chile -commune"}},{"descriptions.en.value":1})
+
+ 	## stemming: basically same stem, no caps
+ 	## stop words: in, and, the in english...different in spanish if specified not included because they are very common
+
+3. Mongo in python:
+
+# python -m pip install pymongo
+from pymongo import MongoClient
+
+import pprint #For pretty printing
+
+uri = "mongodb://alumnoXX:XX@gray.ing.puc.cl/educativo?authSource=perm"
+# La uri 'estándar' es "mongodb://user:password@ip/database"
+client = MongoClient(uri)
+db = client.get_database('educativo')
+
+# Todos los usuarios:
+
+print('Todos los usuarios:')
+for u in db.usuarios.find({}):
+	pprint.pprint(u)
+
+
+# Todos los usuarios mayores a 23
+
+print('Usuarios mayores a 23:')
+for u in db.usuarios.find({"age":{"$gte":23}}):
+	pprint.pprint(u)
+
+
+# Liste nombre de todos los usuarios, junto con los nombres de toda la gente que este usuario sigue
+
+qusers = db.usuarios.find()
+
+for user in qusers:
+    print('El usuario {} sigue a: '.format(user['name']))
+    for uid in user['follows']:
+        ufollows = db.usuarios.find({'uid': uid})
+        for user2 in ufollows:
+            print("\t{}".format(user2['name']))
