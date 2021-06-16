@@ -15,4 +15,5 @@
 | SQl Parte IV                   | 26/05 | https://drive.google.com/file/d/107cYsEixx9_5dW358d74VIwjMEwcAb3e/view?usp=sharing |
 | Transacciones y ACID           | 02/06 | https://drive.google.com/file/d/1ier71Qa5eQyz1x-gupweEWiPURonwXfk/view?usp=sharing |
 | SQL y Data Science             | 09/06 | https://drive.google.com/file/d/12PoxuwWVIjFejlkvsj1INXOXM7na6G_G/view?usp=sharing |
+| NoSQL y MongoDB                | 16/06 | https://drive.google.com/file/d/1HnpMSGFVk73pwmgUOEtt37L9qQA2xWTN/view?usp=sharing |
 
