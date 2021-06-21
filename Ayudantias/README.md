@@ -7,6 +7,7 @@
 |Ayudantía 1: Server + GitHub | [Cápsula](https://www.youtube.com/watch?v=BSRZWwDqs9U&list=PLQp2iAe8lQvxAg7P8sXlL71H2iQK8oXMK&index=1&ab_channel=MauroS.MendozaElguera) |  |
 |Ayudantía 2: PHP | [Ayudantía 2 Video](https://drive.google.com/file/d/1s3Qu_vSUc0LyBxX9rzwU4M2U5gIR5mD2/view?usp=sharing) | [Ayudantía 2 Chat](https://docs.google.com/document/d/1t8mbznD6ZqhFXQg2oa6mJusc94nTivtqMUnmcVc6z2A/edit?usp=sharing)  |
 |Ayudantía 3: Procedimientos Almacenados | [Ayudantía 3 Video](https://drive.google.com/file/d/1s2OUoetIob6ZO4h_NdubKUXNppv5Akcp/view?usp=sharing) | [Ayudantía 3 Chat](https://drive.google.com/file/d/1riB9DEyVsdGzZnIx_AKsvWp2s8l3VBAE/view?usp=sharing)  |
+|Cápsula Ayudantía 3: Conexión con dblink| [Cápsula Ayudantía 3 Video](https://youtu.be/wAWUp7zLFz4)|
 
 
 
