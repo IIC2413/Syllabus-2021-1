@@ -141,6 +141,12 @@ Fecha      | Evaluación
 
 ---
 
+## Resumen de notas
+
+En el siguiente [link](https://docs.google.com/spreadsheets/d/1hX4gs5xu1yb6bJ-u7P70DHgt9NV3K7IfoKTRFArHoJI/edit#gid=2095167396) podrán encontrar el resumen con las notas del C1 y C2, su promedio y si se eximen o no. Para aquellos que están cerca de eximirse, vamos a acelerar sus correcciones de C3 para tenerles una respuesta lo antes posible sobre su eximición. Además, recuerden que independiente de si se eximen o no, la nota final se calcula con las notas de los 3 controles, por lo que les recomendamos fuertemente que no lo boten y lo realicen a conciencia.
+
+--- 
+
 ## Foro
 
 La página de [_Issues_](https://github.com/IIC2413/Syllabus-2021-1/issues) se utilizará como foro para preguntas. Notar que las etiquetas ya se encuentran definidas. **Este es el único canal oficial para formular preguntas**.
