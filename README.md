@@ -7,7 +7,7 @@
   - [Ayudantes](#ayudantes)
 - [Contenidos](#contenidos)
 - [Calendario](#calendario-evaluaciones)
-- [Resumen de notas](#Resumen de notas)
+- [Resumen de notas](#Resumen-de-notas)
 - [Foro](#foro)
 - [Política de integridad académica](#política-de-integridad-académica)
 
