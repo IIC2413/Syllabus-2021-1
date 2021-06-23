@@ -121,8 +121,8 @@ Fecha      | Evaluación
 30/04      | Entrega Control 2
 **19/05**      | Enunciado Control Bonus
 **24/05**      | Entrega Control Bonus
-28/06      | Enunciado Control 3
-30/06      | Entrega Control 3
+**30/06**      | Enunciado Control 3
+**02/07**      | Entrega Control 3
 14/07      | Examen
 
 ### Proyecto
@@ -134,7 +134,7 @@ Fecha      | Evaluación
 21/04      | Enunciado Entrega 2
 26/05      | Entrega 2
 02/06      | Enunciado Entrega 3
-**02/07**      | Entrega 3
+**05/07**      | Entrega 3
 
 
 
