@@ -124,7 +124,7 @@ Fecha      | Evaluación
 **24/05**      | Entrega Control Bonus
 **30/06**      | Enunciado Control 3
 **02/07**      | Entrega Control 3
-14/07      | Examen
+30/06      | Examen
 
 ### Proyecto
 
